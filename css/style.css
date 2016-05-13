@@ -1,0 +1,14 @@
+#logo, input{
+    margin-left: 50%;
+}
+
+#result--item{
+    display: block;
+    float: left;
+    height: 400px;
+    width: 300px;
+}
+
+.hide{
+    display: none;
+}
